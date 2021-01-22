@@ -1,0 +1,13 @@
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\SRPAlgo\SRPAlgo\bin\Debug\netcoreapp3.1\SRPAlgo.exe
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\SRPAlgo\SRPAlgo\bin\Debug\netcoreapp3.1\SRPAlgo.deps.json
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\SRPAlgo\SRPAlgo\bin\Debug\netcoreapp3.1\SRPAlgo.runtimeconfig.json
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\SRPAlgo\SRPAlgo\bin\Debug\netcoreapp3.1\SRPAlgo.runtimeconfig.dev.json
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\SRPAlgo\SRPAlgo\bin\Debug\netcoreapp3.1\SRPAlgo.dll
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\SRPAlgo\SRPAlgo\bin\Debug\netcoreapp3.1\SRPAlgo.pdb
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\SRPAlgo\SRPAlgo\obj\Debug\netcoreapp3.1\SRPAlgo.csprojAssemblyReference.cache
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\SRPAlgo\SRPAlgo\obj\Debug\netcoreapp3.1\SRPAlgo.AssemblyInfoInputs.cache
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\SRPAlgo\SRPAlgo\obj\Debug\netcoreapp3.1\SRPAlgo.AssemblyInfo.cs
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\SRPAlgo\SRPAlgo\obj\Debug\netcoreapp3.1\SRPAlgo.csproj.CoreCompileInputs.cache
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\SRPAlgo\SRPAlgo\obj\Debug\netcoreapp3.1\SRPAlgo.dll
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\SRPAlgo\SRPAlgo\obj\Debug\netcoreapp3.1\SRPAlgo.pdb
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\SRPAlgo\SRPAlgo\obj\Debug\netcoreapp3.1\SRPAlgo.genruntimeconfig.cache
