@@ -1,0 +1,13 @@
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\DiffieHellmanAlgo\DiffieHellmanAlgo\bin\Debug\netcoreapp3.1\DiffieHellmanAlgo.exe
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\DiffieHellmanAlgo\DiffieHellmanAlgo\bin\Debug\netcoreapp3.1\DiffieHellmanAlgo.deps.json
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\DiffieHellmanAlgo\DiffieHellmanAlgo\bin\Debug\netcoreapp3.1\DiffieHellmanAlgo.runtimeconfig.json
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\DiffieHellmanAlgo\DiffieHellmanAlgo\bin\Debug\netcoreapp3.1\DiffieHellmanAlgo.runtimeconfig.dev.json
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\DiffieHellmanAlgo\DiffieHellmanAlgo\bin\Debug\netcoreapp3.1\DiffieHellmanAlgo.dll
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\DiffieHellmanAlgo\DiffieHellmanAlgo\bin\Debug\netcoreapp3.1\DiffieHellmanAlgo.pdb
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\DiffieHellmanAlgo\DiffieHellmanAlgo\obj\Debug\netcoreapp3.1\DiffieHellmanAlgo.csprojAssemblyReference.cache
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\DiffieHellmanAlgo\DiffieHellmanAlgo\obj\Debug\netcoreapp3.1\DiffieHellmanAlgo.AssemblyInfoInputs.cache
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\DiffieHellmanAlgo\DiffieHellmanAlgo\obj\Debug\netcoreapp3.1\DiffieHellmanAlgo.AssemblyInfo.cs
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\DiffieHellmanAlgo\DiffieHellmanAlgo\obj\Debug\netcoreapp3.1\DiffieHellmanAlgo.csproj.CoreCompileInputs.cache
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\DiffieHellmanAlgo\DiffieHellmanAlgo\obj\Debug\netcoreapp3.1\DiffieHellmanAlgo.dll
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\DiffieHellmanAlgo\DiffieHellmanAlgo\obj\Debug\netcoreapp3.1\DiffieHellmanAlgo.pdb
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\DiffieHellmanAlgo\DiffieHellmanAlgo\obj\Debug\netcoreapp3.1\DiffieHellmanAlgo.genruntimeconfig.cache
