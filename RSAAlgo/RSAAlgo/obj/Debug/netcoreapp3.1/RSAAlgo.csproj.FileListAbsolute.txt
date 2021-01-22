@@ -1,0 +1,13 @@
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\RSAAlgo\RSAAlgo\bin\Debug\netcoreapp3.1\RSAAlgo.exe
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\RSAAlgo\RSAAlgo\bin\Debug\netcoreapp3.1\RSAAlgo.deps.json
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\RSAAlgo\RSAAlgo\bin\Debug\netcoreapp3.1\RSAAlgo.runtimeconfig.json
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\RSAAlgo\RSAAlgo\bin\Debug\netcoreapp3.1\RSAAlgo.runtimeconfig.dev.json
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\RSAAlgo\RSAAlgo\bin\Debug\netcoreapp3.1\RSAAlgo.dll
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\RSAAlgo\RSAAlgo\bin\Debug\netcoreapp3.1\RSAAlgo.pdb
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\RSAAlgo\RSAAlgo\obj\Debug\netcoreapp3.1\RSAAlgo.csprojAssemblyReference.cache
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\RSAAlgo\RSAAlgo\obj\Debug\netcoreapp3.1\RSAAlgo.AssemblyInfoInputs.cache
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\RSAAlgo\RSAAlgo\obj\Debug\netcoreapp3.1\RSAAlgo.AssemblyInfo.cs
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\RSAAlgo\RSAAlgo\obj\Debug\netcoreapp3.1\RSAAlgo.csproj.CoreCompileInputs.cache
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\RSAAlgo\RSAAlgo\obj\Debug\netcoreapp3.1\RSAAlgo.dll
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\RSAAlgo\RSAAlgo\obj\Debug\netcoreapp3.1\RSAAlgo.pdb
+C:\Users\ANTON\Documents\_Learning\Учеба\7 семестр\Инф.без\RSAAlgo\RSAAlgo\obj\Debug\netcoreapp3.1\RSAAlgo.genruntimeconfig.cache
